@@ -70,6 +70,7 @@ while True:
         print("Código de descuento no válido, por favor intente nuevamente.")
 print("*********************************")
 print(f"total de productos: {contador}")
+print("*********************************")
 print("Usted ha comprado", pikachu, "Pikachu Rolls")
 print("Usted ha comprado", otaku, "Otaku Rolls")
 print("Usted ha comprado", pulpo, "Pulpo Rolls")
