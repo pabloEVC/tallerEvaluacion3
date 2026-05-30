@@ -52,6 +52,8 @@ while True:
             break
     if menu==5:
         break
+
+    
 while True:
 
     codigo=input("ingrese el codigo de descuento si no posse uno solo ingrese x:").lower()
